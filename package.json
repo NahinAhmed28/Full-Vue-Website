@@ -1,0 +1,40 @@
+{
+    "name": "dummyWebsite",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "@vue/composition-api": "^1.1.4",
+        "@vuelidate/core": "^2.0.0-alpha.25",
+        "@vuelidate/validators": "^2.0.0-alpha.21",
+        "axios": "^0.18.1",
+        "bootstrap": "^4.5.3",
+        "bootstrap-vue": "^2.21.2",
+        "chart.js": "2.9",
+        "chartkick": "^4.0.5",
+        "core-js": "^3.6.5",
+        "node-sass": "^4.14.1",
+        "popper.js": "^1.16.1",
+        "portal-vue": "^2.1.7",
+        "register-service-worker": "^1.7.1",
+        "vue": "^2.6.11",
+        "vue-chartkick": "^0.6.1",
+        "vue-trend-chart": "^0.15.3",
+        "vuelidate": "^0.7.6",
+        "vuetrend": "^0.3.4",
+        "vuex": "^3.4.0"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-pwa": "~4.5.0",
+        "@vue/cli-plugin-vuex": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "eslint": "^7.32.0",
+        "sass": "^1.38.0",
+        "sass-loader": "^8.0.2",
+        "vue-template-compiler": "^2.6.11"
+    }
+}

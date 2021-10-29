@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "name": "shower",
+      "id": 2
+    },
+    {
+      "name": "breakfast",
+      "id": 3
+    },
+    {
+      "name": "lunch",
+      "id": 4
+    },
+    {
+      "name": "gym",
+      "id": 5
+    }
+  ]
+}
