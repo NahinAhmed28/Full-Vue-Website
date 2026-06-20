@@ -1,14 +1,25 @@
 # Full Vue Website
 
-Full Vue Website is a Vue-based website project. It is intended for building a complete front-end experience using Vue components, routing, reusable views, and modern JavaScript tooling.
+Full Vue Website is a Vue-based website project for building a complete front-end experience.
 
-## Project Details
+## Features
 
-- Repository: `NahinAhmed28/Full-Vue-Website`
-- Default branch: `master`
-- Visibility: public
-- Project type: Vue website
-- Main focus: complete front-end website structure
+- Vue component-based page structure
+- Reusable layout and view patterns
+- Front-end routing/API integration readiness
+- Production build workflow
+
+## Modules
+
+- View module: pages and route-level screens
+- Component module: reusable UI elements
+- Service module: API clients or data helpers when enabled
+- Asset module: styles, images, and static resources
+- Build module: development and production scripts
+
+## System Architecture
+
+The project follows a client-side Vue architecture. Views compose reusable components, optional services fetch remote data, and the build system outputs static assets for deployment. Backend integration can be added through REST or other API calls.
 
 ## Getting Started
 
@@ -18,9 +29,3 @@ cd Full-Vue-Website
 npm install
 npm run dev
 ```
-
-Check `package.json` for the exact scripts if the project uses a different command.
-
-## Notes
-
-Add screenshots, page descriptions, API notes, and deployment instructions as the website evolves.
